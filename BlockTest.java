@@ -7,33 +7,6 @@ import java.awt.Color;
 import java.util.ArrayList;
 
 /**
-* DO NOT MODIFY THIS CODE
-* There are no user serviceable components.  Any changes will void your warranty.
-*/
-
-/**
- * The test class BlockTest. An attempt to recreate GridMonster as a Junit based tester.
- * Demonstrates a sample regression testing harness for revisions of Blocks code.
- * Replace GridMonster with this file.
- * 
- * Reference information
- * BlueJ Junit
- *   http://www.bluej.org/tutorial/testing-tutorial.pdf
- *   http://www.bluej.org/papers/2003-06-iticse-unittest.pdf
- *   
- * Junit reference information
- *   http://junit.sourceforge.net/javadoc/org/junit/Assert.html
- * 
- * Use of @attribute in Junit (not employed in this demo)
- *    Flexible, Reliable Software: Using Patterns and Agile Development
- *       By Henrik B. Christensen
- *       see pages 20 - 21
- *       
- * Use of asserts - only to explain Junit
- *   http://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html
- *   
- * @author  Anu Datar with inputs provided by Martin Baynes
- * @version April 22, 2015
  */
 public class BlockTest
 {
