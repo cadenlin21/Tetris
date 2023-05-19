@@ -22,9 +22,8 @@
 //package info.gridworld.grid;
 
 /**
- * A <code>Location</code> object represents the row and column of a location
- * in a two-dimensional grid. <br />
- * The API of this class is testable on the AP CS A and AB exams.
+ * A Location object represents the row and column of a location
+ * in a two-dimensional grid.
  * @author Caden Lin 
  * @version Apr 21 2021 
  */
