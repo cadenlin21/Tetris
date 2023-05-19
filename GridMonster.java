@@ -1,8 +1,6 @@
 import java.awt.Color;
 import java.util.ArrayList;
 /**
-* DO NOT MODIFY THIS CODE
-* There are no user serviceable components.  Any changes will void your warranty.
 */
 public class GridMonster
 {
