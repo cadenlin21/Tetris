@@ -1,18 +1,9 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-/**
- * @author Anu Datar
- * 
- * Changed block size and added a split panel display for next block and Score
- * 
- * @author Ryan Adolf
- * @version 1.0
- * 
- * Fixed the lag issue with block rendering 
- * Removed the JPanel
+/*
+ * Used to display the contents of a game board
  */
-// Used to display the contents of a game board
 public class BlockDisplay extends JComponent implements KeyListener
 {
     private static final Color BACKGROUND = Color.BLACK;
