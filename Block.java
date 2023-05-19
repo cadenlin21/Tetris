@@ -1,8 +1,6 @@
 import java.awt.Color;
 /**
  * class BLock encapsulates a Block abstraction which can be placed into a Gridworld style grid
- * You are expected to comment this class according to the style guide.
- * @author Caden Lin 
  * @version March 16, 2021 
  */
 public class Block
@@ -11,7 +9,7 @@ public class Block
     private Location location;
     private Color color;
     /**
-     * constructs a blue block, because blue is the greatest color ever!
+     * constructs a blue block
      */
     public Block()
     {
