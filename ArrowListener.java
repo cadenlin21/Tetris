@@ -1,6 +1,5 @@
 /**
-* DO NOT MODIFY THIS CODE
-* There are no user serviceable components.  Any changes will void your warranty.
+* An interface for detecting keyboard activity.
 */
 public interface ArrowListener
 {
