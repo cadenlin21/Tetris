@@ -4,7 +4,7 @@ A basic game of Tetris implemented in Java that includes all necessary features 
 Instructions to play: 
 
 1. Download and unzip the zip file. 
-2. Open the files and compile the code, either through an IDE or the command line.
+2. Open the project and compile the code, either through an IDE or the command line.
 3. Run Tetris.java and enjoy! Controls are standard Tetris controls. 
 
 
